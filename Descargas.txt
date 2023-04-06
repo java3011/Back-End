@@ -1,0 +1,13 @@
+npm i express
+npm i bcrypt
+npm i cors
+npm i dotenv
+npm i jsonwebtoken
+npm i --save sequelize
+npm i --save pg pg-hstore
+npm i typescript --save-dev
+npm i nodemon --save-dev
+npm i --save-dev @types/express
+npm i --save-dev @types/bcrypt
+npm i --save-dev @types/jsonwebtoken
+
